@@ -1,0 +1,208 @@
+/* ********************************************************************** */
+/* Universal stles                                                        */
+/* ********************************************************************** */
+body{
+	margin: 0;
+    padding: 0;
+	background-color:skyblue;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #363636;
+    text-align: center;
+
+}
+
+
+p{
+	line-height: 190p%;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+/* ********************************************************************** */
+/* Menu                                                                   */
+/* ********************************************************************** */
+
+#menu{
+	background-color:white;
+	height: 80px;
+}
+
+#menu ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center
+}
+
+#menu li{
+	display: inline-block;
+}
+
+#menu a{
+	letter-spacing: 1px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 16px;
+	line-height: 100px;
+	color: red;
+	
+	padding: 0 10px;
+	border: none;
+	display: block;
+}
+
+#menu a:hover{
+	background-color:coral;
+}
+
+/* ********************************************************************** */
+/* Header                                                                 */
+/* ********************************************************************** */
+
+#header{
+	padding: 5px 0px 5px 0;
+	background-color:mintcream;
+	text-align: center;
+   height: auto;
+}
+
+#header h1{3,1em;
+	font-size: 50px;
+	color: red;
+   
+}
+
+#header p{ 
+	letter-spacing: 0,1em;
+	color: red;
+}
+
+
+/* ********************************************************************** */
+/* Page                                                                   */
+/* ********************************************************************** */
+
+#page{
+	min-height:100px;
+	padding: 20px;
+}
+
+#page h2{
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	font-weight: 200;
+	font-size: 20px;
+	color: white;
+   
+}
+
+
+
+/* CONTENT */
+
+#content{
+	float: left;
+	width: 40%;
+}
+
+/* SIDEBAR */
+
+#sidebar{
+	float: right;
+	width: 25%
+}
+
+/* LISTS */
+
+ul.styled{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+ul.styled li{
+	border-top: solid 1px blue;
+	padding: 14px;0px;
+}
+
+/* ********************************************************************** */
+/* Footer                                                                 */
+/* ********************************************************************** */
+
+#footer{
+	width: 100%;
+	height: 100px;
+	background-color:#ffffff;
+	padding-top: 20px;
+	padding-left: 22px;
+	clear: both;
+}
+
+#footer h2{
+	font-size: 18px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+#footer p{
+	color: white;
+}
+
+#footer a{
+	color: orange;
+}
+
+#box1{
+	float: right;
+    width:30%;
+    padding-right: 100px; 
+    height: 50%;
+}
+
+#box2{
+	float: left;
+	width: 100%;
+	padding-right:30px;
+}
+
+#box3{
+	float: left;
+	width: 60%;
+	
+	padding-left: 100px;
+}
+
+
+
+/* ********************************************************************** */
+/* Gallery                                                                */
+/* ********************************************************************** */
+
+#gallery img{
+	width: 130px;
+	margin: 13px;
+	
+	-moz-transition: -moz-transform 0.5s ease-in;
+	-webkit-transition: -webkit-transform 0.5s ease-in;
+	-o-transition: -o-transform 0.5s ease-in;	
+}
+
+#gallery img:hover{
+	-moz-transform: scale(3);
+	-webkit-transform: scale(3);
+	-o-transform: scale(3);
+}
+
+
+
+
+
+
+

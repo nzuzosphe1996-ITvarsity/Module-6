@@ -1,0 +1,47 @@
+[1113/093422.965:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/000312.087:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/002934.780:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/103817.655:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1115/012709.723:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/012709.731:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/012709.819:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/012830.755:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1115/013226.461:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/025551.833:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/025551.897:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025551.977:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025552.001:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025552.001:ERROR:crash_report_exception_handler.cc(113)] WriteEverything failed
+[1115/025552.009:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Nzuzo\AppData\Local\Google\Chrome\User Data\Crashpad\reports\17b7d336-4620-4058-a5b2-d10909867d2d.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1115/025600.443:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1115/025600.451:ERROR:crash_report_exception_handler.cc(113)] WriteEverything failed
+[1115/025600.451:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Nzuzo\AppData\Local\Google\Chrome\User Data\Crashpad\reports\fd157da8-7eef-48b1-b6ed-6b0592c60303.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1116/003238.612:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/010933.917:ERROR:process_info.cc(359)] UncheckedAllocate
+[1116/013435.145:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/091030.284:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/215726.939:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/235359.024:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1117/090525.550:ERROR:process_info.cc(359)] UncheckedAllocate
+[1117/090525.936:ERROR:process_info.cc(359)] UncheckedAllocate
+[1117/090557.532:ERROR:process_info.cc(359)] UncheckedAllocate
+[1117/090749.132:ERROR:process_info.cc(359)] UncheckedAllocate
+[1117/092910.061:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1117/224625.127:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1118/091337.036:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Nzuzo\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\17b7d336-4620-4058-a5b2-d10909867d2d: The system cannot find the path specified. (0x3)
+[1118/091337.076:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Nzuzo\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\fd157da8-7eef-48b1-b6ed-6b0592c60303: The system cannot find the path specified. (0x3)
+[1118/091337.089:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1118/192116.789:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1119/151847.471:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/092503.145:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/205048.134:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1123/113816.380:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
